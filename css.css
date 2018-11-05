@@ -1,7 +1,6 @@
 body { /* has seizure and one gradient */
 
-/* background: linear-gradient(to right, #C33764, #1D2671);  */
-.manofsteel;
+background: linear-gradient(to right, #C33764, #1D2671);
 /*
 seizure background
 -webkit-animation:rainbow .1s infinite;
